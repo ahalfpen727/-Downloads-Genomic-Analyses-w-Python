@@ -1,15 +1,4 @@
-m
-![LBS](images/LBS.png)
-----------
-We meet on __Wednesdays at noon__ in the library commons area of the Samuel J. Wood Library, 1300 York Ave. You can see the upcoming topics in the Events section of the [Library Website](https://library.med.cornell.edu).
-
-The material from each demonstration will be available in its own folder.
-
-Feel free to post issues or comments using the github issue tracker, or (for the more adventurous), submit a pull request.
-
 For the collection of future topics, see [issue number 1](https://github.com/oxpeter/library_bioinformatics_service/issues/1).
-
-
 
 ## Schedule of topics, with links to material (most recent on top)
 
