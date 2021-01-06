@@ -1,0 +1,8 @@
+matplotlib
+numpy
+sklearn
+pandas
+ipywidgets
+scipy
+cartopy
+seaborn
